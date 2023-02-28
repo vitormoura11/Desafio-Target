@@ -14,3 +14,4 @@ def inverteString(string):
 
 n = input("Digite a string que deseja inverter os caracteres: ")
 print(inverteString(n))
+
