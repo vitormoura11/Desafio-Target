@@ -9,7 +9,6 @@ Vitor Moura - www.github.com/vitormoura11
 
 using namespace std;
 
-
 //funcao que ira retornar 'true' se o numero 'n' pertence a sequencia de fibonacci e 'false' caso nao pertencer
 bool ehFibonacci(int n){
 
