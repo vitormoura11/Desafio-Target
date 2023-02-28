@@ -14,7 +14,7 @@ Após o usuário compilar e executar o programa **desafio2.cpp**, será pedido u
 Dado um vetor presente no arquivo **dados.json**, o programa **desafio3.py** irá calcular e retornar quantos dias houve um faturamento maior que 0, o menor e o maior valor do faturamento ocorrido e em qual dia do mês. Além disso, ele também ira retornar a média mensal e o número de dias no mês em que o valor do faturamento diário foi superior à média mensal.
 
 ## desafio4
-O arquivo **desafio4.cpp** calcula o percentual de participação de cada estado dado o valor do faturamento mensal de uma distribuidora seguindo os dados contidos na questão.
+O arquivo **desafio4.cpp** calcula e retorna o percentual de participação de cada estado, limitado à duas casas decimais, dado o valor do faturamento mensal de uma distribuidora seguindo os dados contidos na questão.
 
 ## desafio5
 Após o usuário inserir uma entrada o programa **desafio5.py** inverte os caracteres da string digitada.
